@@ -1,5 +1,5 @@
 
-# Tema 1 MN - Huzum Petrisor 315CB
+# Data Analysis and Machine Learning
 
 ## Task1
 Funcții
